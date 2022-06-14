@@ -1,0 +1,10 @@
+tab	samples
+analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	citations	dip	geologic_classes	geologic_types	height	lithologies	method_codes	sample	site
+	0.0	0.0	0.0	90.0	This study	-0.0			0		SO-CMD-NORTH	DA2-1d	DA2
+	299.0	0.0	0.0	90.0	This study	-50.0			0		SO-CMD-NORTH	DA4-1C	DA4
+	115.0	0.0	0.0	90.0	This study	-96.0			0		SO-CMD-NORTH	DA6-1C	DA6
+	358.0	0.0	0.0	90.0	This study	-50.0			0		SO-CMD-NORTH	DA7-2c	DA7
+	354.0	0.0	0.0	90.0	This study	-28.0			0		SO-CMD-NORTH	DX1-1b	DX1
+	354.0	0.0	0.0	90.0	This study	-28.0			0		SO-CMD-NORTH	DX1-4b	DX1
+	353.0	0.0	0.0	90.0	This study	-38.0			0		SO-CMD-NORTH	DX1-4c	DX1
+	10.0	0.0	0.0	90.0	This study	-33.0			0		SO-CMD-NORTH	DX1-5b	DX1

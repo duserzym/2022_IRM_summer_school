@@ -1,0 +1,10 @@
+tab	specimens
+specimen	sample	analysts	citations	method_codes	volume	weight
+DA2-1d	DA2-1d		This study	LP-NOMAG		
+DA4-1C	DA4-1C		This study	LP-NOMAG		
+DA6-1C	DA6-1C		This study	LP-NOMAG		
+DA7-2c	DA7-2c		This study	LP-NOMAG		
+DX1-1b	DX1-1b		This study	LP-NOMAG		
+DX1-4b	DX1-4b		This study	LP-NOMAG		
+DX1-4c	DX1-4c		This study	LP-NOMAG		
+DX1-5b	DX1-5b		This study	LP-NOMAG		

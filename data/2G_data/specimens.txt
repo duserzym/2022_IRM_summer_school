@@ -1,0 +1,26 @@
+tab	specimens
+specimen	experiments	sample	dir_alpha95	dir_comp	dir_dec	dir_inc	dir_n_comps	dir_n_measurements	dir_tilt_correction	dir_dang	dir_mad_free	meas_step_max	meas_step_min	meas_step_unit	analysts	instrument_codes	software_packages	int_corr	citations	method_codes	result_quality	volume	weight	location	site
+DA2-1d		DA2-1d																	This study	LP-NOMAG				Duluth	DA2
+DA2-1d	DA2-1d_LP-DIR-AF	DA2-1d		lc	66.3	-64.7	2	25	0	22.3	0.6	2.500e-02	0.000e+00	T		IRM_2G 2022-06-10 12:00:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g			Duluth	DA2
+DA2-1d	DA2-1d_LP-DIR-AF	DA2-1d		mc	69.6	47.0	2	7	-1	5.5	7.2	1.700e-01	1.000e-01	T		IRM_2G 2022-06-10 12:00:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g			Duluth	DA2
+DA2-1d	DA2-1d_LP-DIR-AF	DA2-1d		lc	66.3	-64.7	2	25	-1	22.3	0.6	2.500e-02	0.000e+00	T		IRM_2G 2022-06-10 12:00:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g			Duluth	DA2
+DA2-1d	DA2-1d_LP-DIR-AF	DA2-1d		mc	69.6	47.0	2	7	0	5.5	7.2	1.700e-01	1.000e-01	T		IRM_2G 2022-06-10 12:00:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g			Duluth	DA2
+DA4-1C	DA4-1C_LP-DIR-AF	DA4-1C		mc	185.6	68.0	3	8	-1	2.0	4.7	1.700e-01	9.000e-02	T		IRM_2G 2022-06-10 12:00:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g			Duluth	DA4
+DA4-1C		DA4-1C																	This study	LP-NOMAG				Duluth	DA4
+DA4-1C	DA4-1C_LP-DIR-AF	DA4-1C		llc	62.4	17.1	3	7	-1	61.2	3.0	4.000e-03	0.000e+00	T		IRM_2G 2022-06-10 12:00:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g			Duluth	DA4
+DA4-1C	DA4-1C_LP-DIR-AF	DA4-1C		lc	331.1	20.1	3	9	-1	43.4	0.9	1.600e-02	8.000e-03	T		IRM_2G 2022-06-10 12:00:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g			Duluth	DA4
+DA4-1C	DA4-1C_LP-DIR-AF	DA4-1C		mc	294.6	61.8	3	8	0	2.0	4.7	1.700e-01	9.000e-02	T		IRM_2G 2022-06-10 12:00:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g			Duluth	DA4
+DA4-1C	DA4-1C_LP-DIR-AF	DA4-1C		llc	358.0	-8.6	3	7	0	61.2	3.0	4.000e-03	0.000e+00	T		IRM_2G 2022-06-10 12:00:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g			Duluth	DA4
+DA4-1C	DA4-1C_LP-DIR-AF	DA4-1C		lc	269.2	-24.1	3	9	0	43.4	0.9	1.600e-02	8.000e-03	T		IRM_2G 2022-06-10 12:00:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g			Duluth	DA4
+DA6-1C	DA6-1C_LP-DIR-AF	DA6-1C		mc	315.5	54.3	2	35	0	12.3	1.9	4.500e-02	0.000e+00	T		IRM_2G 2022-06-10 12:00:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g			Duluth	DA6
+DA6-1C	DA6-1C_LP-DIR-AF	DA6-1C		lc	316.2	53.8	2	23	0	11.0	1.5	2.000e-02	0.000e+00	T		IRM_2G 2022-06-10 12:00:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g			Duluth	DA6
+DA6-1C	DA6-1C_LP-DIR-AF	DA6-1C		mc	195.3	-38.9	2	35	-1	12.3	1.9	4.500e-02	0.000e+00	T		IRM_2G 2022-06-10 12:00:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g			Duluth	DA6
+DA6-1C		DA6-1C																	This study	LP-NOMAG				Duluth	DA6
+DA6-1C	DA6-1C_LP-DIR-AF	DA6-1C		lc	196.0	-39.2	2	23	-1	11.0	1.5	2.000e-02	0.000e+00	T		IRM_2G 2022-06-10 12:00:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g			Duluth	DA6
+DA7-2c	DA7-2c_LP-DIR-AF	DA7-2c		mc	327.2	43.5	1	8	0	3.5	6.0	1.700e-01	9.000e-02	T		IRM_2G 2022-06-10 12:00:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g			Duluth	DA7
+DA7-2c	DA7-2c_LP-DIR-AF	DA7-2c		mc	251.1	66.9	1	8	-1	3.5	6.0	1.700e-01	9.000e-02	T		IRM_2G 2022-06-10 12:00:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-AF:DE-BFL:DA-DIR	g			Duluth	DA7
+DA7-2c		DA7-2c																	This study	LP-NOMAG				Duluth	DA7
+DX1-1b		DX1-1b																	This study	LP-NOMAG				Duluth	DX1
+DX1-4b		DX1-4b																	This study	LP-NOMAG				Duluth	DX1
+DX1-4c		DX1-4c																	This study	LP-NOMAG				Duluth	DX1
+DX1-5b		DX1-5b																	This study	LP-NOMAG				Duluth	DX1
