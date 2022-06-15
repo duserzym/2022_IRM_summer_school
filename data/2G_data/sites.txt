@@ -1,16 +1,15 @@
 tab	sites
-analysts	citations	criteria	dir_alpha95	dir_comp_name	dir_dec	dir_inc	dir_k	dir_n_samples	dir_n_specimens	dir_n_specimens_lines	dir_n_specimens_planes	dir_polarity	dir_r	dir_tilt_correction	lat	location	lon	method_codes	result_quality	samples	site	software_packages	specimens	vgp_dm	vgp_dp	vgp_lat	vgp_lon
-	This study														47.0	Duluth Complex	-91.5				DA2						
-	This study														47.0	Duluth Complex	-91.5				DA4						
-	This study														47.0	Duluth Complex	-91.5				DA6						
-	This study														47.0	Duluth Complex	-91.5				DA7						
-	This study														47.0	Duluth Complex	-91.5				DX1						
-	This study	ACCEPT		lc	66.3	-64.7		1.0	1.0	1.0	0.0	t		0.0	47.0	Duluth	-91.5	LP-DIR-AF:DE-BFL:DA-DIR-GEO:LP-DC4	g	DA2-1d	DA2	pmagpy-4.2.24-1: demag_gui.v.3.0	DA2-1d	289.4	232.6	-20.1	46.5
-	This study	ACCEPT		mc	69.6	47.0		1.0	1.0	1.0	0.0	t		0.0	47.0	Duluth	-91.5	LP-DIR-AF:DE-BFL:DA-DIR-GEO:LP-DC4	g	DA2-1d	DA2	pmagpy-4.2.24-1: demag_gui.v.3.0	DA2-1d	232.6	150.3	33.7	351.8
-	This study	ACCEPT		lc	269.2	-24.1		1.0	1.0	1.0	0.0	t		0.0	47.0	Duluth	-91.5	LP-DIR-AF:DE-BFL:DA-DIR-GEO:LP-DC4	g	DA4-1C	DA4	pmagpy-4.2.24-1: demag_gui.v.3.0	DA4-1C	192.4	102.9	-9.7	170.4
-	This study	ACCEPT		llc	358.0	-8.6		1.0	1.0	1.0	0.0	n		0.0	47.0	Duluth	-91.5	LP-DIR-AF:DE-BFL:DA-DIR-GEO:LP-DC4	g	DA4-1C	DA4	pmagpy-4.2.24-1: demag_gui.v.3.0	DA4-1C	181.5	91.5	38.6	91.1
-	This study	ACCEPT		mc	294.6	61.8		1.0	1.0	1.0	0.0	n		0.0	47.0	Duluth	-91.5	LP-DIR-AF:DE-BFL:DA-DIR-GEO:LP-DC4	g	DA4-1C	DA4	pmagpy-4.2.24-1: demag_gui.v.3.0	DA4-1C	278.6	215.6	44.9	198.5
-	This study	ACCEPT		lc	316.2	53.8		1.0	1.0	1.0	0.0	n		0.0	47.0	Duluth	-91.5	LP-DIR-AF:DE-BFL:DA-DIR-GEO:LP-DC4	g	DA6-1C	DA6	pmagpy-4.2.24-1: demag_gui.v.3.0	DA6-1C	251.7	175.9	55.0	173.4
-	This study	ACCEPT		mc	315.5	54.3		1.0	1.0	1.0	0.0	n		0.0	47.0	Duluth	-91.5	LP-DIR-AF:DE-BFL:DA-DIR-GEO:LP-DC4	g	DA6-1C	DA6	pmagpy-4.2.24-1: demag_gui.v.3.0	DA6-1C	253.2	178.1	54.8	174.7
-	This study	ACCEPT		mc	327.2	43.5		1.0	1.0	1.0	0.0	n		0.0	47.0	Duluth	-91.5	LP-DIR-AF:DE-BFL:DA-DIR-GEO:LP-DC4	g	DA7-2c	DA7	pmagpy-4.2.24-1: demag_gui.v.3.0	DA7-2c	224.2	139.6	56.2	150.2
-															47.0	Duluth	-91.5				DX1						
+site	location	samples	specimens	age	age_high	age_low	age_sigma	age_unit	dir_alpha95	dir_comp_name	dir_dec	dir_inc	dir_k	dir_n_samples	dir_n_specimens_lines	dir_n_specimens_planes	dir_polarity	dir_r	dir_tilt_correction	lat	lon	analysts	criteria	software_packages	citations	method_codes	result_quality	result_type	vgp_dm	vgp_dp	vgp_lat	vgp_lon	dir_n_specimens
+DA2	Duluth Complex	DA2-1d	DA2-1d	2.28	4.56	0.0	2.28	Ga		lc	66.2	-64.7		1	1	0	t		0	47.0	-91.5		ACCEPT	pmagpy-4.2.2: demag_gui.v.3.0	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO:LP-DC4	g	i	  289.4 	  232.6 	  -20.0 	   46.5 	1
+DA2	Duluth Complex	DA2-1d	DA2-1d	2.28	4.56	0.0	2.28	Ga		mc	69.6	47.0		1	1	0	t		0	47.0	-91.5		ACCEPT	pmagpy-4.2.2: demag_gui.v.3.0	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO:LP-DC4	g	i	  232.6 	  150.3 	   33.7 	  351.8 	1
+DA4	Duluth Complex	DA4-1C	DA4-1C	2.28	4.56	0.0	2.28	Ga		lc	269.2	-24.1		1	1	0	t		0	47.0	-91.5		ACCEPT	pmagpy-4.2.2: demag_gui.v.3.0	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO:LP-DC4	g	i	  192.4 	  102.9 	   -9.7 	  170.4 	1
+DA4	Duluth Complex	DA4-1C	DA4-1C	2.28	4.56	0.0	2.28	Ga		llc	356.9	-9.5		1	1	0	n		0	47.0	-91.5		ACCEPT	pmagpy-4.2.2: demag_gui.v.3.0	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO:LP-DC4	g	i	  181.9 	   91.9 	   38.1 	   92.4 	1
+DA4	Duluth Complex	DA4-1C	DA4-1C	2.28	4.56	0.0	2.28	Ga		mc	294.6	61.8		1	1	0	n		0	47.0	-91.5		ACCEPT	pmagpy-4.2.2: demag_gui.v.3.0	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO:LP-DC4	g	i	  278.6 	  215.6 	   44.9 	  198.5 	1
+DA6	Duluth Complex	DA6-1C	DA6-1C	2.28	4.56	0.0	2.28	Ga		lc	316.2	53.8		1	1	0	n		0	47.0	-91.5		ACCEPT	pmagpy-4.2.2: demag_gui.v.3.0	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO:LP-DC4	g	i	  251.7 	  175.9 	   55.0 	  173.4 	1
+DA6	Duluth Complex	DA6-1C	DA6-1C	2.28	4.56	0.0	2.28	Ga		mc	315.5	54.3		1	1	0	n		0	47.0	-91.5		ACCEPT	pmagpy-4.2.2: demag_gui.v.3.0	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO:LP-DC4	g	i	  253.2 	  178.1 	   54.8 	  174.7 	1
+DA7	Duluth Complex	DA7-2c	DA7-2c	2.28	4.56	0.0	2.28	Ga		lc	309.5	37.3		1	1	0	n		0	47.0	-91.5		ACCEPT	pmagpy-4.2.2: demag_gui.v.3.0	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO:LP-DC4	g	i	  211.5 	  124.2 	   41.7 	  163.6 	1
+DA7	Duluth Complex	DA7-2c	DA7-2c	2.28	4.56	0.0	2.28	Ga		llc	286.6	35.5		1	1	0	t		0	47.0	-91.5		ACCEPT	pmagpy-4.2.2: demag_gui.v.3.0	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO:LP-DC4	g	i	  208.3 	  120.5 	   25.4 	  180.5 	1
+DA7	Duluth Complex	DA7-2c	DA7-2c	2.28	4.56	0.0	2.28	Ga		mc	327.2	43.5		1	1	0	n		0	47.0	-91.5		ACCEPT	pmagpy-4.2.2: demag_gui.v.3.0	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO:LP-DC4	g	i	  224.2 	  139.6 	   56.2 	  150.2 	1
+DX1	Duluth Complex	DX1-1b:DX1-4b:DX1-4c:DX1-5b	DX1-1b:DX1-4b:DX1-4c:DX1-5b	2.28	4.56	0.0	2.28	Ga	  180.0 	lc	  274.6 	   21.9 	     2 	4	4 	0 	t	2.3543 	0	47.0	-91.5		ACCEPT	pmagpy-4.2.2: demag_gui.v.3.0	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO:LP-DC4:DE-FM	g	i	  190.2 	  100.5 	   11.4 	  183.0 	4 
+DX1	Duluth Complex	DX1-5b	DX1-5b	2.28	4.56	0.0	2.28	Ga		llc	283.3	35.9		1	1	0	t		0	47.0	-91.5		ACCEPT	pmagpy-4.2.2: demag_gui.v.3.0	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO:LP-DC4	g	i	  208.9 	  121.3 	   23.4 	  183.1 	1
+DX1	Duluth Complex	DX1-4b:DX1-4c:DX1-5b	DX1-4b:DX1-4c:DX1-5b	2.28	4.56	0.0	2.28	Ga	   11.3 	mc	  286.0 	   46.4 	   120 	3	3 	0 	t	2.9833 	0	47.0	-91.5		ACCEPT	pmagpy-4.2.2: demag_gui.v.3.0	This study	LP-DIR-AF:DE-BFL:DA-DIR-GEO:DE-BFL-A:LP-DC4:DE-FM	g	i	   14.5 	    9.3 	   30.4 	  187.7 	3 
