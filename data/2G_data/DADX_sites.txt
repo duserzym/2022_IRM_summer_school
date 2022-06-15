@@ -1,7 +1,7 @@
 tab	sites
 site	location	lat	lon	analysts	citations
-DA2	Duluth	47.0	-91.5		This study
-DA4	Duluth	47.0	-91.5		This study
-DA6	Duluth	47.0	-91.5		This study
-DA7	Duluth	47.0	-91.5		This study
-DX1	Duluth	47.0	-91.5		This study
+DA2	Duluth Complex	47.0	-91.5		This study
+DA4	Duluth Complex	47.0	-91.5		This study
+DA6	Duluth Complex	47.0	-91.5		This study
+DA7	Duluth Complex	47.0	-91.5		This study
+DX1	Duluth Complex	47.0	-91.5		This study
